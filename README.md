@@ -5,8 +5,8 @@
 ex) http://localhost:8080/hot/{z}/{x}/{y}.png
 
 + 실행 순서  
---> ./src/index.js에서 tile link를 변경합니다.
---> npm run build(output 경로는 dist입니다)
+--> ./src/index.js에서 tile link를 변경합니다.\n
+--> npm run build(output 경로는 dist입니다)\n
 --> npm start
 
 
